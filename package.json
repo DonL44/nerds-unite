@@ -1,0 +1,48 @@
+{
+  "name": "nerds-unite",
+  "version": "1.0.0",
+  "description": "This project uses the Model-View-Controller (MVC) paradigm to create a blog-style website where developers can post articles with commentary, edit posts, and comment on other user's articles.",
+  "main": "server.js",
+  "engines": {
+    "node": "12.11.1"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bulma": "^0.9.3",
+    "connect-session-sequelize": "^6.1.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "express-session": "^1.17.2",
+    "memorystore": "^1.6.7",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0",
+    "sequelize": "^6.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonL44/nerds-unite.git"
+  },
+  "keywords": [
+    "tech",
+    "blog"
+  ],
+  "author": "DonL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonL44/nerds-unite/issues"
+  },
+  "homepage": "https://github.com/DonL44/nerds-unite#readme"
+}
