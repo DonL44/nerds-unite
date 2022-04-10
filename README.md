@@ -49,7 +49,7 @@ With the following npm packages:
 
 ## Preview
 ### Screenshots
-![Sign Up](public\images\signup_screenshot.png)
-![Login](public\images\login_screenshot.png)
-![Local Server Deployment](public\images\local_server.png)
-![Heroku Deployment](public\images\heroku_screenshot.png)
+![Sign Up](https://github.com/DonL44/nerds-unite/blob/4fd10c29907cfb0d6598b2e2a7dca8511aac3b86/public/images/signup_screenshot.png)
+![Login](https://github.com/DonL44/nerds-unite/blob/4fd10c29907cfb0d6598b2e2a7dca8511aac3b86/public/images/login_screenshot.png)
+![Local Server Deployment](https://github.com/DonL44/nerds-unite/blob/4fd10c29907cfb0d6598b2e2a7dca8511aac3b86/public/images/local_server.png)
+![Heroku Deployment](https://github.com/DonL44/nerds-unite/blob/4fd10c29907cfb0d6598b2e2a7dca8511aac3b86/public/images/heroku_screenshot.png)
