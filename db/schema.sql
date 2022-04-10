@@ -1,7 +1,7 @@
 -- DROP DATABASE
-DROP DATABASE IF EXISTS nerds-unite_blog_db;
+DROP DATABASE IF EXISTS nerds_unite_blog_db;
 
 -- CREATE DATABASE
-CREATE DATABASE nerds-unite_blog_db;
+CREATE DATABASE nerds_unite_blog_db;
 
 
